@@ -17,6 +17,7 @@ __all__ = [
 class SemanticSearchModelEnum(str, Enum):
     jinav1 = "jinav1"
     jinav2 = "jinav2"
+    ax_jinav2 = "ax_jinav2"
 
 
 class LPRDeviceEnum(str, Enum):
